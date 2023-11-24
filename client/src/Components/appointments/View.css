@@ -1,0 +1,14 @@
+.btn-update,
+.btn-delete {
+    border-radius: 5px;
+    background: #b30059;
+    width: 10%;
+    font-size: 17px;
+    margin-left: 20%;
+    color: #ffffff;
+}
+
+.btn-update:hover,
+.btn-delete:hover {
+    box-shadow: 1px 3px 5px rgba(10, 10, 10, 10);
+}
